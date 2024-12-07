@@ -8,7 +8,7 @@ public class GMNv1 {
         int num = r.nextInt(10);
 
         while(true){
-            String guess = JOptionPane.showInputDialog(null,"Guess my number!","GUESS MY NUMBER",JOptionPane.QUESTION_MESSAGE);
+            String guess = JOptionPane.showInputDialog(null,"Guess my number! (0-10)","GUESS MY NUMBER",JOptionPane.QUESTION_MESSAGE);
             int g = Integer.parseInt(guess);
 
             // ıf you say guess==num, you'll get an error.
