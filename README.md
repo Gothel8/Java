@@ -1,4 +1,4 @@
-# Java - Basit Notlar & GUI Projesi
+# Java - Notlar & GUI Projesi
 
 Bu repo, java konu notları ve GUI uygulamaları içerir. Amaç hızlıca çalıştırılabilecek, öğrenmeye yönelik örnekler sunmaktır.
 
